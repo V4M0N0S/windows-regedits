@@ -26,7 +26,8 @@ In case of the "old-photo-viewer" it doesn't matter.
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via
+Mail: vamonos@posteo.me /// Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
