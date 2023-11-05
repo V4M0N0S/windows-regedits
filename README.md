@@ -1,7 +1,7 @@
 # WINDOWS 10 REGEDITS
 This Regedits will make your user experience a bit smarter.
 
-## Current projekt status
+## Current project status
 🔸 This project has been discontinued.
 
 ## Current Regedits in this repository
