@@ -1,6 +1,9 @@
 # WINDOWS 10 REGEDITS
 This Regedits will make your user experience a bit smarter.
 
+## Current projekt status
+🔸 This project has been discontinued.
+
 ## Current Regedits in this repository
 ```bash
 "old-photo-viewer" - This will restore the old Photo Viewer from Windows 7
@@ -26,8 +29,7 @@ In case of the "old-photo-viewer" it doesn't matter.
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via
-Mail: vamonos@posteo.me /// Discord: vamonos.me
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
